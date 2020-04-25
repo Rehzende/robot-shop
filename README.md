@@ -151,7 +151,7 @@ The payment services provides:
 * Histogram of the total number of items in each cart
 * Histogram of the total value of each cart
 
-To test the metrics use:
+To test the metrics:
 
 ```shell
 $ curl http://<host>:8080/api/cart/metrics
